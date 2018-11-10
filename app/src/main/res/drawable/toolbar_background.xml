@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/colorPrimary" />
+        </shape>
+    </item>
+    <item>
+        <bitmap android:src="@drawable/ico_delete_asset" android:gravity="center" />
+    </item>
+</layer-list>

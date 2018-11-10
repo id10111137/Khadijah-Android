@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Khadijah</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_signup">SignUp</string>
+    <string name="info_hajj">Info Hajj</string>
+    <string name="info_umroh">Info Umroh</string>
+    <string name="al_quran">Al-Quran</string>
+    <string name="info_apps">Info Apps</string>
+    <string name="porject_date">Start : 201806 - 201807</string>
+    <string name="img_todo">TODO</string>
+    <string name="txt_name_project">Project Radio Mara Ghita</string>
+    <string name="txt_project_type">Name Project : Android Mobile Apps</string>
+    <string name="txt_project_status">Project Status : Close</string>
+    <string name="txt_url_project">Project URL : https:\\playstore.co.id</string>
+    <string name="txt_project_desc">Project Desc : Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="txt_search_hajji">Search Hajji</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_login">LOGIN</string>
+</resources>

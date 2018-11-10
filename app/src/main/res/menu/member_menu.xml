@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/menuhome"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/mHomes"
+            android:enabled="true"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/mUmroh"
+            android:enabled="true"
+            android:icon="@drawable/ic_umroh"
+            android:title="Umroh" />
+
+        <item
+            android:id="@+id/mHajj"
+            android:enabled="true"
+            android:icon="@drawable/ic_haji"
+            android:title="Hajji" />
+
+
+    </group>
+
+
+</menu>

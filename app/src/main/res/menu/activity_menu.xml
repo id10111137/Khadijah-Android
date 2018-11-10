@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/menu_home" />
+
+    <item
+        android:id="@+id/menu_signup"
+        android:icon="@drawable/ic_launcher_background"
+        android:iconTint="@color/colorPrimary"
+        android:title="@string/menu_signup" />
+
+    <item
+        android:id="@+id/menu_alquran"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="@string/al_quran" />
+    <item
+        android:id="@+id/menu_hajji"
+        android:icon="@drawable/ic_launcher_background"
+        android:iconTint="@color/colorPrimary"
+        android:title="@string/info_hajj" />
+    <item
+        android:id="@+id/menu_umroh"
+        android:icon="@drawable/ic_launcher_background"
+        android:iconTint="@color/colorPrimary"
+        android:title="@string/info_umroh" />
+
+    <item
+        android:id="@+id/menu_apps_info"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="@string/info_apps" />
+
+
+    <!--<item-->
+    <!--android:id="@+id/menu_chatting"-->
+    <!--android:icon="@drawable/ic_launcher_background"-->
+    <!--android:title="Chatting" />-->
+    <!--<item-->
+    <!--android:id="@+id/menu_myprofil"-->
+    <!--android:icon="@drawable/ic_launcher_background"-->
+    <!--android:title="My Profil" />-->
+
+
+
+</menu>
